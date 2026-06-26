@@ -70,10 +70,3 @@ print(b1)
 print()
 print(b1.is_valid_amount(1000))
 print(b1.is_valid_amount(-1000))
-
-
-
-
-
-
-         
